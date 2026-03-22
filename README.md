@@ -2,9 +2,9 @@
 
 A minimal Kubernetes setup that deploys a Node.js web application backed by MongoDB, running locally via Minikube. Intended as a hands-on reference for core Kubernetes concepts: Deployments, Services, ConfigMaps, and Secrets.
 
-reference video: https://www.youtube.com/watch?v=s_o8dwzRlu4
+[reference video](https://www.youtube.com/watch?v=s_o8dwzRlu4/)
 
-reference code: https://gitlab.com/nanuchi/k8s-in-1-hour/-/blob/master/webapp.yaml?ref_type=heads
+[reference code](https://gitlab.com/nanuchi/k8s-in-1-hour/-/blob/master/webapp.yaml?ref_type=heads/)
 
 ---
 
